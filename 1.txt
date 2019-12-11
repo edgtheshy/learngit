@@ -9,3 +9,5 @@ sssss
 dddd
 
 s'd'sa'd'sa'd
+
+Creating a new branch is quick.
