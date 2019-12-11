@@ -11,3 +11,5 @@ dddd
 s'd'sa'd'sa'd
 
 Creating a new branch is quick.
+
+Creating a new branch is quick AND simple.
